@@ -25,7 +25,7 @@ async function testGetEndpoint() {
 
         }
 
-    }
+    } 
 
     testGetEndpoint();
 
